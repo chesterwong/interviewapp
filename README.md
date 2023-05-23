@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 提交说明
 
-按照需求已经完成，但是感觉需求不是很严谨。
+按照需求已经完成。
 
 # Getting Started with Create React App
 
