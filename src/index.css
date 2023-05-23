@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(240, 242, 245);
+}
+aside .ant-layout-sider{
+  line-height:none;
+}
+ul li {
+  list-style: none;
+  
+}
+ul {
+  padding-inline-start: 0px;
+}
